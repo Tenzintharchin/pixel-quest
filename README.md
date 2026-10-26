@@ -7,3 +7,6 @@ PixelQuest is een fictief indiegameproject.
 - Verken een pixelwereld
 - Verzamel items
 - Voltooi missies
+=======
+# pixel-quest
+
